@@ -1,3 +1,5 @@
+// https://github.com/nzmlinear/Assignment.js
+
 // kilometerToMeter--------------------------
 function kilometerToMeter(kilometer) {
     return kilometer*1000;
